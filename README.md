@@ -15,3 +15,5 @@ If you use the following languages from XTD-10 corpus in your publication, pleas
       primaryClass={cs.CL}
 }
 ```
+## Note
+To read the extended version of this paper please see [here](https://arxiv.org/abs/2109.07622). This paper was presented in the [Workshop of Multilingual Search](https://multilingual-workshop.github.io/) of The Web Conference, 2021.
