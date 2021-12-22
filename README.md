@@ -1,5 +1,5 @@
 # Welcome to the Cross-lingual-Test-Dataset-XTD10 corpus!
-We introduce a new 1K multi-lingual MSCOCO2014 caption test dataset (XTD10) in 7 languages that we collected using a crowdsourcing platform. We use this as the test set for evaluating zero-shot model performance across languages. Please see [paper](https://arxiv.org/pdf/2012.05107.pdf) for more detailed evaluation results. For more information on the MIC dataset please refer [this](https://arxiv.org/pdf/1510.03519.pdf).
+We introduce a new 1K multi-lingual MSCOCO2014 caption test dataset (XTD10) in 7 languages that we collected using a crowdsourcing platform. We use this as the test set for evaluating zero-shot model performance across languages. Please see [paper](https://arxiv.org/pdf/2012.05107.pdf) for more detailed evaluation results. For more information on the MIC dataset (de, fr) please refer [this](https://arxiv.org/pdf/1510.03519.pdf) and for STAIR dataset (jp) please refer [this](https://aclanthology.org/P17-2066.pdf).
 ## Licensing Information
 Please see the Adobe License for this dataset [here](https://github.com/adobe-research/Cross-lingual-Test-Dataset-XTD10/blob/main/LICENSE.md). Contact the authors for information on commercial use.
 ## Citation
